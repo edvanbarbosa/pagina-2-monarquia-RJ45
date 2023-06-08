@@ -230,7 +230,7 @@ form >div > div{
 }
 @media screen and (max-width:900px){
     .bandeirolas{
-        background-size: 150%;
+        background-size: 200%;
     }
     .casal{
         height: 60%;
