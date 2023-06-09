@@ -280,7 +280,7 @@ form >div > div{
         background-size: 250%;
     }
     .casal{
-        height: 25%;
+        height: 30%;
         margin-left: 0em;
     }
     form{
@@ -292,6 +292,7 @@ form >div > div{
         display: flex;
         align-items: center;
         width: 100%;
+        height: 45%;
        
     }
 
