@@ -109,8 +109,9 @@ form >div > div{
     align-items: flex-start;
     height: 100%;
     width: 100%;
-    background-image: url("img/bandeirola.png");
+    background-image: url("img/bandeirola.svg");
     background-size: cover;
+    background-position: top center;
 }
 .top{
     height: 45%;
@@ -137,11 +138,12 @@ form >div > div{
 .bottom{
     display: flex;
     justify-content: center;
-    overflow-x: hidden;
     height: 45%;
     width: 100%;
     align-items: flex-end;
 }
+
+
 .bottom > div{
     height: 100%;
 }
